@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_RowClassName="DataTable1Row" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="PAYMENTID" msprop:Generator_ColumnVarNameInTable="columnPAYMENTID" msprop:Generator_ColumnPropNameInRow="PAYMENTID" msprop:Generator_ColumnPropNameInTable="PAYMENTIDColumn" msprop:Generator_UserColumnName="PAYMENTID" type="xs:string" minOccurs="0" />
+              <xs:element name="ACCOUNTNUMBER" msprop:Generator_ColumnVarNameInTable="columnACCOUNTNUMBER" msprop:Generator_ColumnPropNameInRow="ACCOUNTNUMBER" msprop:Generator_ColumnPropNameInTable="ACCOUNTNUMBERColumn" msprop:Generator_UserColumnName="ACCOUNTNUMBER" type="xs:string" minOccurs="0" />
+              <xs:element name="PAYMENTDATE" msprop:Generator_ColumnVarNameInTable="columnPAYMENTDATE" msprop:Generator_ColumnPropNameInRow="PAYMENTDATE" msprop:Generator_ColumnPropNameInTable="PAYMENTDATEColumn" msprop:Generator_UserColumnName="PAYMENTDATE" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="PAYMENTAMOUNT" msprop:Generator_ColumnVarNameInTable="columnPAYMENTAMOUNT" msprop:Generator_ColumnPropNameInRow="PAYMENTAMOUNT" msprop:Generator_ColumnPropNameInTable="PAYMENTAMOUNTColumn" msprop:Generator_UserColumnName="PAYMENTAMOUNT" type="xs:double" minOccurs="0" />
+              <xs:element name="CENTERCODE" msprop:Generator_ColumnVarNameInTable="columnCENTERCODE" msprop:Generator_ColumnPropNameInRow="CENTERCODE" msprop:Generator_ColumnPropNameInTable="CENTERCODEColumn" msprop:Generator_UserColumnName="CENTERCODE" type="xs:string" minOccurs="0" />
+              <xs:element name="STATUS" msprop:Generator_ColumnVarNameInTable="columnSTATUS" msprop:Generator_ColumnPropNameInRow="STATUS" msprop:Generator_ColumnPropNameInTable="STATUSColumn" msprop:Generator_UserColumnName="STATUS" type="xs:decimal" minOccurs="0" />
+              <xs:element name="ERRORCODE" msprop:Generator_ColumnVarNameInTable="columnERRORCODE" msprop:Generator_ColumnPropNameInRow="ERRORCODE" msprop:Generator_ColumnPropNameInTable="ERRORCODEColumn" msprop:Generator_UserColumnName="ERRORCODE" type="xs:string" minOccurs="0" />
+              <xs:element name="BRANCHCODE" msprop:Generator_ColumnVarNameInTable="columnBRANCHCODE" msprop:Generator_ColumnPropNameInRow="BRANCHCODE" msprop:Generator_ColumnPropNameInTable="BRANCHCODEColumn" msprop:Generator_UserColumnName="BRANCHCODE" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

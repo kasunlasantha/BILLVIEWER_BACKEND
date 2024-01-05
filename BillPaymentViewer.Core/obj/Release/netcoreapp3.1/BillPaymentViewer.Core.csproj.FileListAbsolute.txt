@@ -1,0 +1,9 @@
+F:\work\MOBITEL-BILLPAYMENTVIEWER\BillPaymentViewer\BillPaymentViewer.Core\bin\Release\netcoreapp3.1\BillPaymentViewer.Core.deps.json
+F:\work\MOBITEL-BILLPAYMENTVIEWER\BillPaymentViewer\BillPaymentViewer.Core\bin\Release\netcoreapp3.1\BillPaymentViewer.Core.dll
+F:\work\MOBITEL-BILLPAYMENTVIEWER\BillPaymentViewer\BillPaymentViewer.Core\bin\Release\netcoreapp3.1\BillPaymentViewer.Core.pdb
+F:\work\MOBITEL-BILLPAYMENTVIEWER\BillPaymentViewer\BillPaymentViewer.Core\obj\Release\netcoreapp3.1\BillPaymentViewer.Core.csprojAssemblyReference.cache
+F:\work\MOBITEL-BILLPAYMENTVIEWER\BillPaymentViewer\BillPaymentViewer.Core\obj\Release\netcoreapp3.1\BillPaymentViewer.Core.AssemblyInfoInputs.cache
+F:\work\MOBITEL-BILLPAYMENTVIEWER\BillPaymentViewer\BillPaymentViewer.Core\obj\Release\netcoreapp3.1\BillPaymentViewer.Core.AssemblyInfo.cs
+F:\work\MOBITEL-BILLPAYMENTVIEWER\BillPaymentViewer\BillPaymentViewer.Core\obj\Release\netcoreapp3.1\BillPaymentViewer.Core.csproj.CoreCompileInputs.cache
+F:\work\MOBITEL-BILLPAYMENTVIEWER\BillPaymentViewer\BillPaymentViewer.Core\obj\Release\netcoreapp3.1\BillPaymentViewer.Core.dll
+F:\work\MOBITEL-BILLPAYMENTVIEWER\BillPaymentViewer\BillPaymentViewer.Core\obj\Release\netcoreapp3.1\BillPaymentViewer.Core.pdb

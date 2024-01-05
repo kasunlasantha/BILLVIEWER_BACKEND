@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  billpaymentviewer.apis:
+    image: ${DOCKER_REGISTRY-}billpaymentviewerapis
+    build:
+      context: .
+      dockerfile: BillPaymentViewer.APIs\Dockerfile

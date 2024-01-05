@@ -1,0 +1,15 @@
+F:\work\MOBITEL-BILLPAYMENTVIEWER\BillPaymentViewer\BillPaymentViewer.Infrastructure\bin\Debug\netcoreapp3.1\BillPaymentViewer.Infrastructure.deps.json
+F:\work\MOBITEL-BILLPAYMENTVIEWER\BillPaymentViewer\BillPaymentViewer.Infrastructure\bin\Debug\netcoreapp3.1\BillPaymentViewer.Infrastructure.runtimeconfig.json
+F:\work\MOBITEL-BILLPAYMENTVIEWER\BillPaymentViewer\BillPaymentViewer.Infrastructure\bin\Debug\netcoreapp3.1\BillPaymentViewer.Infrastructure.runtimeconfig.dev.json
+F:\work\MOBITEL-BILLPAYMENTVIEWER\BillPaymentViewer\BillPaymentViewer.Infrastructure\bin\Debug\netcoreapp3.1\BillPaymentViewer.Infrastructure.dll
+F:\work\MOBITEL-BILLPAYMENTVIEWER\BillPaymentViewer\BillPaymentViewer.Infrastructure\bin\Debug\netcoreapp3.1\BillPaymentViewer.Infrastructure.pdb
+F:\work\MOBITEL-BILLPAYMENTVIEWER\BillPaymentViewer\BillPaymentViewer.Infrastructure\bin\Debug\netcoreapp3.1\BillPaymentViewer.Core.dll
+F:\work\MOBITEL-BILLPAYMENTVIEWER\BillPaymentViewer\BillPaymentViewer.Infrastructure\bin\Debug\netcoreapp3.1\BillPaymentViewer.Core.pdb
+F:\work\MOBITEL-BILLPAYMENTVIEWER\BillPaymentViewer\BillPaymentViewer.Infrastructure\obj\Debug\netcoreapp3.1\BillPaymentViewer.Infrastructure.csprojAssemblyReference.cache
+F:\work\MOBITEL-BILLPAYMENTVIEWER\BillPaymentViewer\BillPaymentViewer.Infrastructure\obj\Debug\netcoreapp3.1\BillPaymentViewer.Infrastructure.AssemblyInfoInputs.cache
+F:\work\MOBITEL-BILLPAYMENTVIEWER\BillPaymentViewer\BillPaymentViewer.Infrastructure\obj\Debug\netcoreapp3.1\BillPaymentViewer.Infrastructure.AssemblyInfo.cs
+F:\work\MOBITEL-BILLPAYMENTVIEWER\BillPaymentViewer\BillPaymentViewer.Infrastructure\obj\Debug\netcoreapp3.1\BillPaymentViewer.Infrastructure.csproj.CoreCompileInputs.cache
+F:\work\MOBITEL-BILLPAYMENTVIEWER\BillPaymentViewer\BillPaymentViewer.Infrastructure\obj\Debug\netcoreapp3.1\BillPaymentViewer.Infrastructure.csproj.CopyComplete
+F:\work\MOBITEL-BILLPAYMENTVIEWER\BillPaymentViewer\BillPaymentViewer.Infrastructure\obj\Debug\netcoreapp3.1\BillPaymentViewer.Infrastructure.dll
+F:\work\MOBITEL-BILLPAYMENTVIEWER\BillPaymentViewer\BillPaymentViewer.Infrastructure\obj\Debug\netcoreapp3.1\BillPaymentViewer.Infrastructure.pdb
+F:\work\MOBITEL-BILLPAYMENTVIEWER\BillPaymentViewer\BillPaymentViewer.Infrastructure\obj\Debug\netcoreapp3.1\BillPaymentViewer.Infrastructure.genruntimeconfig.cache
